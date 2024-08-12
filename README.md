@@ -16,13 +16,8 @@ Notifications: Real-time notifications to keep you informed.
 Media Sharing: Share photos, videos, and links easily.
 Like and Comment: Engage with posts through likes and comments.
 Privacy Controls: Manage your privacy settings to control who sees your content.
-🎨 Screenshots
 
 
-![social](https://github.com/alwaysajaykr18/PRODIGY_FS_05/assets/172900370/b16b11d0-6b82-4b72-b0a4-0a639f629b42)
-
-
-![social2](https://github.com/alwaysajaykr18/PRODIGY_FS_05/assets/172900370/8cad31d5-0201-48c8-8b81-c58a3f293239)
 
 
 🛠️ Installation
@@ -95,8 +90,6 @@ Make your changes and commit: git commit -m 'Add some feature'.
 Push to the branch: git push origin feature-branch.
 Submit a pull request.
 
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 
 🌟 Acknowledgments
@@ -105,7 +98,7 @@ Inspired by various online resources and tutorials on social media development.
 📫 Contact
 Feel free to reach out if you have any questions or suggestions:
 
-Email: ajaynayak2531@gmail.com
-Twitter: alwaysajaykr18
-GitHub: alwaysajaykr18
+Email: shivammozar100@gmail.com
+Twitter: shivammozar
+GitHub: shivammozar
 Thank you for visiting the MySocial project! We hope it helps you build an engaging and vibrant social media platform. Happy networking! 🚀
