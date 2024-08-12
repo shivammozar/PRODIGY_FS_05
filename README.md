@@ -27,7 +27,6 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/alwaysajaykr18/mysocial.git
 Navigate to the project directory:
 
 bash
